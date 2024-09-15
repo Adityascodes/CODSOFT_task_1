@@ -1,0 +1,6 @@
+com.example.to_dolist.test.app-annotation-experimental-1.4.0-0 C:\Users\adity\.gradle\caches\transforms-4\6138daac0ed3a6270e92942826f32ea5\transformed\annotation-experimental-1.4.0\res
+com.example.to_dolist.test.app-core-1.5.0-1 C:\Users\adity\.gradle\caches\transforms-4\8f97cd00dab6f9cea83391c6643bce48\transformed\core-1.5.0\res
+com.example.to_dolist.test.app-androidTest-2 C:\Users\adity\Downloads\To_Do_List\To_Do_List\app\build\generated\res\resValues\androidTest\debug
+com.example.to_dolist.test.app-mergeDebugAndroidTestResources-3 C:\Users\adity\Downloads\To_Do_List\To_Do_List\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.to_dolist.test.app-mergeDebugAndroidTestResources-4 C:\Users\adity\Downloads\To_Do_List\To_Do_List\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.to_dolist.test.app-debugAndroidTest-5 C:\Users\adity\Downloads\To_Do_List\To_Do_List\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

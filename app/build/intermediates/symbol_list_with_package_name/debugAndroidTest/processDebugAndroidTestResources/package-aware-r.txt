@@ -1,0 +1,3 @@
+com.example.to_dolist.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
